@@ -48,4 +48,4 @@ pip install ziglang
 ./build.sh
 ```
 
-See the [wiki](https://github.com/degraffa/cars-mp-mod/wiki) for how it works and how to extend it.
+See the [wiki](docs/wiki/Home.md) for how it works and how to extend it.
